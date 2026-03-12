@@ -2,7 +2,7 @@
 
 Monitors regulatory feeds and alerts on changes affecting products.
 
-Built by **erron.ai**.
+Built by [Erron AI](https://erron.ai).
 
 ## Why this exists
 - Solve a concrete business problem with a practical, extensible baseline.
